@@ -1,0 +1,28 @@
+
+h2 {
+    color: red;
+}
+
+.bio {
+    border: 5px solid blue;
+    background-color: silver;
+    padding: 1em;
+    margin: 0.5em;
+    justify-content: center;
+ }
+
+.committees {
+    background-color: silver;
+    border: 5px solid blue;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+
+.legislation {
+    flex-basis: 16%;  /* Make each child element the same width */
+    border: 5px solid blue;
+    background-color: silver;
+    padding: 1em;
+    margin: 0.5em;
+}
